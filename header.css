@@ -38,6 +38,9 @@ padding: 1px;
     gap: 20px;
     padding: 10px;
 }
+.nav a{
+    text-decoration: none;
+}
 
 .shop{
     text-align: center;
